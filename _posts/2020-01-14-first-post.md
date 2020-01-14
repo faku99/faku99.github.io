@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first post - Blog - Lucas Elisei"
+title: "My first post"
 date: 2020-01-14
 ---
 
